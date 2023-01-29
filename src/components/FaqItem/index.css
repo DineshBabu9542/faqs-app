@@ -1,0 +1,39 @@
+/* Write your code here. */
+
+.irc-img-container {
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hr-line {
+  border: 1px solid #e4e7eb;
+  margin: 8px;
+}
+
+.answer-text {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #9aa5b1;
+  font-size: 12px;
+  padding: 16px;
+}
+.plus-minus-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.irc-heading {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  color: #52606d;
+}
+.list-item {
+  list-style-type: none;
+  margin-bottom: 15px;
+  border: 1px solid #e4e7eb;
+  width: 95%;
+  border-radius: 12px;
+}
